@@ -1,0 +1,7 @@
+openai
+speechrecognition
+langdetect
+pyttsx3
+gtts
+playsound
+pyaudio
